@@ -4,6 +4,7 @@
 
 ## 免费系列课程 🎓
 
+
 ### 🚗 保姆级从零手写自动驾驶CV课程【🚀✨News🚀✨】
 [链接](https://shouxieai.com/solution/sxai/AutonomousDriving)  
 为了迎合自动驾驶零基础同学的诉求，手写AI推出保姆级手写自动驾驶CV课程。课程方式是一边录制一边学习，每周定时发布课程视频，在群里交流。为零基础的学员入门自动驾驶CV方向打下坚实的基础。
@@ -20,6 +21,12 @@
 投稿作者：Peter Huang 2022-06-21  
 [视频](https://www.bilibili.com/video/BV1GB4y1D7P1)  
 [代码](https://github.com/shouxieai/Kalmanfilter_from_scratch)
+
+---
+
+### 🎨 基于gan的Mnist图片生成
+[视频](https://www.bilibili.com/video/BV1aD4y1M7Tz/?spm_id_from=333.999.0.0)  
+[代码](https://github.com/shouxieai/Mnist_gan/tree/main)
 
 ---
 
