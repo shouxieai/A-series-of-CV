@@ -53,7 +53,7 @@
 ---
 ### 💻 AI算法视角下的c++
 - 视频问手写ai vx: shouxie_ai 
-- [共11节课，每节课1~1.5hour]
+- [共11节课，每节课1~1.5hour 99￥] 
 - algoc++-1.课程简介.pptx
 - algoc++-2.C++的世界观.pptx
 - algoc++-3.nn篇1，求解根号2.pptx
