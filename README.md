@@ -67,6 +67,9 @@
 ### 🧩 复杂onnx解决方案（以sparseconv为例）
 [视频](https://ke.qq.com/course/5851686#term_id=106187062)
 
+### ✂️ 模型剪枝与重参[更新了全网首个基于yolov8剪枝方案]
+- 视频问手写ai vx: shouxie_ai 
+
 ---
 ### 💻 AI算法视角下的c++
 - 视频问手写ai vx: shouxie_ai 
