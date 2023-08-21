@@ -73,7 +73,8 @@
 
 ### 💎 手写扩散模型课程、score-based modelling、SDE
 - [目录](details/diffusion.png)
-- 
+- [详情](details/diffusion.md)
+
 
 ---
 ### 💻 AI算法视角下的c++
