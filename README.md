@@ -71,6 +71,8 @@
 - 视频问手写ai vx: shouxie_ai 
 - [目录内容,点击查看](details/prune.md)
 
+### 💎 手写扩散模型课程、score-based modelling、SDE
+
 ---
 ### 💻 AI算法视角下的c++
 - 视频问手写ai vx: shouxie_ai 
